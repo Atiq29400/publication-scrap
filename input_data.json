@@ -1,0 +1,18 @@
+[
+    {
+        "source": "ieee",
+        "link": "https://ieeexplore.ieee.org/Xplore/home.jsp",
+        "title": "IEEE Transactions on Automatic Control",
+        "volume": 70,
+        "issuesFrom": 1,
+        "issuesTo": 12
+    },
+    {
+        "source": "sagepub",
+        "link": "https://www.sagepub.com/home",
+        "title": "The International Journal of Robotics Research",
+        "volume": 19,
+        "issuesFrom": 1,
+        "issuesTo": 12
+    }
+]
